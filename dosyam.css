@@ -1,0 +1,51 @@
+.hiza{
+    text-align:center;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    height: 100px;
+    background-color:#EEEEEE;
+}
+.container2{
+    width:95%;
+    height: 90px;
+    margin: 5px 65px 5px 75px ;
+    display: flex;
+    text-align: center; 
+
+}
+.solkisim{
+    width: 35%;
+    float: left;
+    background-color: #7EE5DA;
+    margin-left:0;
+    
+
+}
+.ortakisim{
+    width: 22%;
+    float: left;
+    background-color:coral;
+    
+}
+.sagkisim{
+    width: 37%;
+    float: left;
+    background-color: mediumpurple;
+}
+ul{
+    list-style-type:none;
+}
+.yazitipi{
+    text-align:right;
+    padding-bottom:5%;
+    padding-right:6%;
+    
+}
+.pedd{
+    padding-right:10%;
+    
+    
+}
